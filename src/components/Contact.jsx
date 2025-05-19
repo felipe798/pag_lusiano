@@ -40,7 +40,7 @@ function Contact() {
                 <FaFacebookF />
                 <div>
                   <h3>Facebook</h3>
-                  <p><a href="https://www.facebook.com/lucianonoriega" target="_blank" rel="noopener noreferrer">Luciano Noriega - Agente de Bienes Raíces</a></p>
+                  <p><a href="https://www.facebook.com/profile.php?id=61576604727180" target="_blank" rel="noopener noreferrer">Luciano Noriega - Agente de Bienes Raíces</a></p>
                 </div>
               </div>
             </div>
